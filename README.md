@@ -56,7 +56,6 @@ The model is trained using the following steps:
 ## File Descriptions
 
 - `ChatWithMe.ipynb`: The main Jupyter Notebook file containing the chatbot implementation.
-- `intents.json`: The dataset containing the intents and responses for the chatbot.
 
 ## Contributing
 
